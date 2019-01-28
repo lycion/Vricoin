@@ -346,7 +346,7 @@ void OverviewPage::updateMasternodeInfo()
   }
 
   // update collateral info
-  ui->label_lcolat->setText("100000 Coins");
+  ui->label_lcolat->setText("1000000 Coins");
   ui->label_mcolat->setText("5000000 Coins");
   ui->label_fcolat->setText("10000000 Coins");
 
